@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color:aquamarine ;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  text-align: center;
+  padding: 5px;
+}
